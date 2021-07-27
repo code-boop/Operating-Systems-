@@ -1,1 +1,2 @@
 One operating system funciton is memory mangament. It manages both the primary and main memory. The main memory is fast storage and directly accesed by the CPU. Primary memory keeps track of which bytes are of memory are used by which user. The OS decides the order in which process are granted access to memory. 
+Another operating system function is file mangamnet. This function keeps track of where information is stored, user access settings and status of every file. It is responsible for how the data is stored and manipulated. 
