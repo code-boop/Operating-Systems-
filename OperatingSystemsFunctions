@@ -1,0 +1,1 @@
+One operating system funciton is memory mangament. It manages both the primary and main memory. The main memory is fast storage and directly accesed by the CPU. Primary memory keeps track of which bytes are of memory are used by which user. The OS decides the order in which process are granted access to memory. 
